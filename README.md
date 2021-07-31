@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats-pi-tawny.vercel.app/api?yuxubinchen=anuraghazra)](https://github.com/yuxubinchen/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats-pi-tawny.vercel.app/api?yuxubinchen=anuraghazra&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats-pi-tawny.vercel.app/api?yuxubinchen=anuraghazra&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats-pi-tawny.vercel.app/api/top-langs/?yuxubinchen=anuraghazra)](https://github.com/yuxubinchen)
-[![Top Langs](https://github-readme-stats-pi-tawny.vercel.app/api/top-langs/?yuxubinchen=anuraghazra&layout=compact)](https://github.com/yuxubinchen)
-[![willianrod's wakatime stats](https://github-readme-stats-pi-tawny.vercel.app/api/wakatime?yuxubinchen=willianrod)](https://github.com/yuxubinchen)
+[![Anurag's GitHub stats](https://github-readme-stats-pi-tawny.vercel.app/api?username=yuxubinchen=anuraghazra)](https://github.com/yuxubinchen/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-pi-tawny.vercel.app/api?username=yuxubinchen=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats-pi-tawny.vercel.app/api?username=yuxubinchen=anuraghazra&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats-pi-tawny.vercel.app/api/top-langs/?username=yuxubinchen=anuraghazra)](https://github.com/yuxubinchen)
+[![Top Langs](https://github-readme-stats-pi-tawny.vercel.app/api/top-langs/?username=yuxubinchen=anuraghazra&layout=compact)](https://github.com/yuxubinchen)
+[![willianrod's wakatime stats](https://github-readme-stats-pi-tawny.vercel.app/api/wakatime?username=yuxubinchen=willianrod)](https://github.com/yuxubinchen)
 
 
 
