@@ -1,10 +1,10 @@
-### Hi there 👋
+
+# 关于这个账号和我的一些资料
 
 <!--
+### Hi there 👋
 **yuxubinchen/yuxubinchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,9 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![All](https://github-readme-stats.vercel.app/api?username=yuxubinchen&show_icons=true&theme=radical)
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=yuxubinchen&layout=compact)
-![Time](https://github-readme-stats.vercel.app/api/wakatime?username=yuxubinchen)
+
+
+<div width="20px">
+<img src="https://github-readme-stats.vercel.app/api?username=yuxubinchen&show_icons=true&theme=radical" alt="All"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuxubinchen&layout=compact&theme=radical" alt="Language"><br>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yuxubinchen&theme=radical" alt="Time">
+</div>
+
 
 
 
