@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div width="20px">
 <img src="https://github-readme-stats.vercel.app/api?username=yuxubinchen&show_icons=true&theme=radical&card_width=20" alt="All"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuxubinchen&layout=compact&theme=tokyonight&card_width=445" alt="Language"><br>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yuxubinchen&theme=great-gatsby&card_width=20" alt="Time">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yuxubinchen&theme=great-gatsby&card_width=20&v=2" alt="Time">
 </div>
 
 
